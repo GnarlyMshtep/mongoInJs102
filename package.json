@@ -1,0 +1,15 @@
+{
+  "name": "mongoinjs102",
+  "version": "1.0.0",
+  "description": "/**",
+  "main": " */",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matan shtepek",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.13",
+    "node-fetch": "^2.6.1"
+  }
+}
